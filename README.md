@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+Created a React App package to instantiate a directory to hold and run the calculator app.
+
+The main idea behind this ReactJS project is a calculator that can perform the essential functions of basic mathematical functions, including addition, subtraction, multiplication, division, and percentage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
